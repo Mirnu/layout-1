@@ -1,0 +1,12 @@
+html,
+body {
+    font-family: $DM_Sans;
+    letter-spacing: -0.5px;
+    color: $page-text-color;
+}
+
+a {
+    text-decoration: none;
+    color: $header-text;
+    letter-spacing: 0.15px;
+}
